@@ -1,2 +1,0 @@
-D:\School\Unity\Sprint3_AlexLee\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
-D:\School\Unity\Sprint3_AlexLee\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
